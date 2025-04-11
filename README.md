@@ -22,12 +22,8 @@ A smart nutrition assistant designed to help users achieve their health goals th
 
 ---
 
-## 🖼️ Screenshots
-
-> *Click images to enlarge*
-
 ### 🔹 Poster  
-![Dashboard](./images/dashboard.png)
+![Project Poster](./ShapeBa_Poster.png)
 
 
 ---
